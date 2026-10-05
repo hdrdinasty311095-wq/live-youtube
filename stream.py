@@ -2,7 +2,7 @@ import os
 import time
 
 STREAM_KEY = os.environ.get("YOUTUBE_STREAM_KEY")
-VIDEO_URL = "https://drive.google.com/uc?export=download&id=1o_Tnf6Sa_aUxVaEbj8FsZRplSGSpBuq8"
+https://downloadXXX.mediafire.com/.../hasil_combiner_compressed.mp4
 
 def start_streaming():
     command = (
