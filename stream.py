@@ -2,7 +2,7 @@ import os
 import time
 
 STREAM_KEY = os.environ.get("YOUTUBE_STREAM_KEY")
-VIDEO_URL = "https://drive.google.com/file/d/1iNiVygq-VWO-_W65kDHRZojKgURjeNzR/view?usp=drive_link"
+VIDEO_URL = "https://github.com/hdrdinasty311095-wq/live-youtube/blob/main/GUSTAVO_compressed.mp4"
 
 def start_streaming():
     command = (
