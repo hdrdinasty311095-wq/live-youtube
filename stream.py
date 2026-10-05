@@ -2,7 +2,7 @@ import os
 import time
 
 STREAM_KEY = os.environ.get("YOUTUBE_STREAM_KEY")
-https://downloadXXX.mediafire.com/.../hasil_combiner_compressed.mp4
+VIDEO_URL = "https://www.mediafire.com/file/ir6xdja088p2vi3/hasil_combiner_compressed.mp4/file"
 
 def start_streaming():
     command = (
