@@ -2,7 +2,7 @@ import os
 import time
 
 STREAM_KEY = os.environ.get("YOUTUBE_STREAM_KEY")
-VIDEO_URL = "VIDEO_URL = "GUSTAVO_compressed.mp4"
+VIDEO_URL = "GUSTAVO_compressed.mp4"
 
 def start_streaming():
     command = (
