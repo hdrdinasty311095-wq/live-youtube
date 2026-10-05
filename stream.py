@@ -2,7 +2,7 @@ import os
 import time
 
 STREAM_KEY = os.environ.get("YOUTUBE_STREAM_KEY")
-VIDEO_URL = "https://youtu.be/xjzI6imM9mM"
+VIDEO_URL = "https://drive.google.com/file/d/1iNiVygq-VWO-_W65kDHRZojKgURjeNzR/view?usp=drive_link"
 
 def start_streaming():
     command = (
